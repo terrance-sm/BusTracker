@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTracker", "BusTracker\Bu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTracker.FixieTests", "BusTracker.FixieTests\BusTracker.FixieTests.csproj", "{508B8F0D-5B50-466C-BC11-97B04D5B853F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTracker.XUnitTests", "BusTracker.XUnitTests\BusTracker.XUnitTests.csproj", "{9232FF09-0EB0-4D0B-A66C-7212D2D6C846}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
