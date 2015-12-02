@@ -7,8 +7,8 @@
     <ProjectGuid>{508B8F0D-5B50-466C-BC11-97B04D5B853F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BusTracker.Tests</RootNamespace>
-    <AssemblyName>BusTracker.Tests</AssemblyName>
+    <RootNamespace>BusTracker.FixieTests</RootNamespace>
+    <AssemblyName>BusTracker.FixieTests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -52,8 +52,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BusTrackerTests.cs" />
-    <Compile Include="FIxieTestConvention.cs" />
+    <Compile Include="TrackerTests.cs" />
+    <Compile Include="TestingConvention.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

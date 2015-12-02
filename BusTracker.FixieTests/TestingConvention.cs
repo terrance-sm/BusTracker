@@ -1,10 +1,10 @@
 ﻿using Fixie;
 
-namespace BusTracker.Tests
+namespace BusTracker.FixieTests
 {
-    public class FIxieTestConvention: Convention
+    public class TestingConvention: Convention
     {
-        public FIxieTestConvention()
+        public TestingConvention()
         {
             Classes.NameEndsWith("Tests");
 

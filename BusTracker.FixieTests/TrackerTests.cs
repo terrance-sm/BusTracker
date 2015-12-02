@@ -2,9 +2,9 @@
 using BusTracker.Domain.Model;
 using Should;
 
-namespace BusTracker.Tests
+namespace BusTracker.FixieTests
 {
-    public class BusTrackerTests
+    public class TrackerTests
     {
         
         private readonly BusTracker _busTracker;
@@ -47,7 +47,7 @@ namespace BusTracker.Tests
             Route = RouteLbbToAus
         };
 
-        public BusTrackerTests()
+        public TrackerTests()
         {
             _busTracker = new BusTracker
             {

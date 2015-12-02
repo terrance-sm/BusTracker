@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTracker", "BusTracker\BusTracker.csproj", "{D576648E-55CB-48AE-ACD1-F4C44B81F122}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTracker.Tests", "BusTracker.Tests\BusTracker.Tests.csproj", "{508B8F0D-5B50-466C-BC11-97B04D5B853F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTracker.FixieTests", "BusTracker.FixieTests\BusTracker.FixieTests.csproj", "{508B8F0D-5B50-466C-BC11-97B04D5B853F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +21,10 @@ Global
 		{508B8F0D-5B50-466C-BC11-97B04D5B853F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{508B8F0D-5B50-466C-BC11-97B04D5B853F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{508B8F0D-5B50-466C-BC11-97B04D5B853F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9232FF09-0EB0-4D0B-A66C-7212D2D6C846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9232FF09-0EB0-4D0B-A66C-7212D2D6C846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9232FF09-0EB0-4D0B-A66C-7212D2D6C846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9232FF09-0EB0-4D0B-A66C-7212D2D6C846}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
